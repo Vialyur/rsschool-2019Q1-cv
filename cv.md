@@ -1,13 +1,13 @@
-#Yurau Vital#
+# Yurau Vital
 ***
 
-##Contacts##
+## Contacts
 - ***Telegram:*** [@Vialyur](https://t.me/Vialyur)
 - ***phone:*** +375(44)3754444
 - ***e-mail:*** vialyur@gmail.com
 - ***adress:*** 220020, г. Минск, ул. Северозападная, 33-333
 
-##Summary##
+## Summary
 ***Purpose:*** 
 
 - Start a career Junior JavaScript Developer;
@@ -15,24 +15,24 @@
 - Develop my professional skills and qualities;
 - In 4-5 years to become the head of the department.
 
-##Skills##
-###Technical skills###
+## Skills
+### Technical skills
 - HTML5;
 - CSS3;
 - JavaScript
-###Management skills###
+### Management skills
 - Team Leading
 
-##Experience##
+## Experience
 Create a website for [coffee shops](http://www.sturbuzz.lisogorsky.ru 'Coffee Shoops Starbuzz') 
  
-##Education##
+## Education
 - Bachelor of Science - Belarusian National Technical University, 2009
 (Faculty of Technology and Technology)
 - Codeacademy (Course of HTML&CSS), 2019;
 - Htmlacademy (Course HTML&CSS), 2019
  
-##English level##
+## English level
 B1 (Intermediate)
 
 - School of the foreign languages "Step by Step" (2017-2018)
