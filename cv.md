@@ -1,38 +1,41 @@
-#Юров Виталий
+#Yurau Vital
 ***
 
-##Контакты
+##Contacts
 - ***Telegram:*** [@Vialyur](https://t.me/Vialyur)
-- ***Телефон:*** +375(44)3754444
-- ***Электронная почта:*** vialyur@gmail.com
-- ***Адресс:*** 220020, г. Минск, ул. Северозападная, 33-333
+- ***phone:*** +375(44)3754444
+- ***e-mail:*** vialyur@gmail.com
+- ***adress:*** 220020, г. Минск, ул. Северозападная, 33-333
 
 ##Summary
-***Цели:*** 
+***Purpose:*** 
 
-- Начало карьеры Junior JavaScript Developer;
-- Получение необходимых дополнительных навыков;
-- Развитие своих профессиональных навыков и качеств;
-- В течение 4-5 лет стать руководителем отдела.
+- Start a career Junior JavaScript Developer;
+- Get the necessary additional skills;
+- Develop my professional skills and qualities;
+- In 4-5 years to become the head of the department.
 
 ##Skills
+###Technical skills
 - HTML5;
 - CSS3;
 - JavaScript
+###Management skills
+- Team Leading
 
-##Опыт
-Создание сайта для сети [кофеен](http://www.sturbuzz.lisogorsky.ru 'Сеть кофеен Starbuzz') 
+##Experience
+Create a website for [coffee shops](http://www.sturbuzz.lisogorsky.ru 'Coffee Shoops Starbuzz') 
  
-##Образование
-- Белорусский национальный технический университет, 2009
-(Механнико-технологический факультет)
-- Курс HTML&CSS Codeacademy;
-- Курс HTML&CSS Htmlacademy;
+##Education
+- Bachelor of Science - Belarusian National Technical University, 2009
+(Faculty of Technology and Technology)
+- Codeacademy (Course of HTML&CSS), 2019;
+- Htmlacademy (Course HTML&CSS), 2019
  
-##Уровень английского
+##English level
 B1 (Intermediate)
 
-- Обучение в школе иностраных языков "Step by Step" (2017-2018)
-- Обучение при помощи приложений для изучения иностранных языков:
+- School of the foreign languages "Step by Step" (2017-2018)
+- Training applications for learning foreign languages:
 	- Duolingo
 	- Lingualeo
