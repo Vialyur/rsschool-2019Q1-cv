@@ -12,6 +12,8 @@ body {
 main {
   margin: 0 auto 3em;
   max-width: 1024px;
+  border: 1px solid gray;
+  padding: 20px;
 }
   
 h1,
@@ -36,6 +38,8 @@ h2 {
 img.photo {
   float: left;
   margin-right: 30px;
+  border: 1px solid gray;
+  border-top: none;
 }
 
 li>strong {
