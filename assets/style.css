@@ -49,3 +49,11 @@ li>strong {
 a:hover {
   color: brown;
 }
+
+ul {
+  margin-left: 20px;
+}
+
+.ul2 {
+  margin-left: 20px;
+}
